@@ -44,4 +44,4 @@ Follow these steps to get your development environment set up:
 The [master](https://github.com/jasontaylordev/NorthwindTraders/tree/master) branch is running .NET Core 3.1
  
 ## License
-This project is creatd as a part of Work Assignment
+This project is created by ParthKansara as a part of Work Assignment
